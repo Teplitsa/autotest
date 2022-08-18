@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Rec-Test Suite" time="52.681" tests="5" failures="0" errors="0">
+   <testsuite name="Rec-Test Suite" tests="5" failures="0" errors="0" time="52.681" skipped="0" timestamp="2022-07-30 23:54:07" hostname="johnyk - localhost" id="Test Suites/Rec-Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/johnyk/Katalon Studio/Star once/Reports/20220730_235356/Rec-Test Suite/20220730_235356"/>
+         <property name="logFiles" value="/Users/johnyk/Katalon Studio/Star once/Reports/20220730_235356/Rec-Test Suite/20220730_235356/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="johnyk - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.4.0.208"/>
+         <property name="browser" value="Chrome 103.0.5060.134"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="b17f235c48ce57a279a932a8995dd878"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Rec-withprize" time="14.086" classname="Test Cases/Rec-withprize" status="PASSED">
+         <system-out><![CDATA[2022-07-30 23:54:08 - [TEST_CASE][PASSED] - Test Cases/Rec-withprize: Test Cases/Rec-withprize
+
+2022-07-30 23:54:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-07-30 23:54:08 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-07-30 23:54:08 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-07-30 23:54:11 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-07-30 23:54:11 - [TEST_STEP][PASSED] - navigateToUrl("http://kandinsky-wordpress-20.tw1.ru/campaign/s-nagradoj/"): Navigate to 'http://kandinsky-wordpress-20.tw1.ru/campaign/s-nagradoj/' successfully
+
+2022-07-30 23:54:19 - [MESSAGE][PASSED] - Navigate to 'http://kandinsky-wordpress-20.tw1.ru/campaign/s-nagradoj/' successfully
+
+2022-07-30 23:54:19 - [TEST_STEP][PASSED] - click(findTestObject("recur/Page_-/a_")): Object: 'Object Repository/recur/Page_-/a_' is clicked on
+
+2022-07-30 23:54:20 - [MESSAGE][PASSED] - Object: 'Object Repository/recur/Page_-/a_' is clicked on
+
+2022-07-30 23:54:20 - [TEST_STEP][PASSED] - click(findTestObject("Duvforcustom/Page_-/div_1000")): Object: 'Object Repository/Duvforcustom/Page_-/div_1000' is clicked on
+
+2022-07-30 23:54:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Duvforcustom/Page_-/div_1000' is clicked on
+
+2022-07-30 23:54:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Withprize/Page_-/img_2_merchandise-image")): Object: 'Object Repository/Withprize/Page_-/img_2_merchandise-image' is clicked on
+
+2022-07-30 23:54:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Withprize/Page_-/img_2_merchandise-image' is clicked on
+
+2022-07-30 23:54:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Withprize/Page_-/div_1_swiper-arrow swipe-right")): Object: 'Object Repository/Withprize/Page_-/div_1_swiper-arrow swipe-right' is clicked on
+
+2022-07-30 23:54:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Withprize/Page_-/div_1_swiper-arrow swipe-right' is clicked on
+
+2022-07-30 23:54:21 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Withprize/Page_-/img_1_merchandise-image")): Object 'Object Repository/Withprize/Page_-/img_1_merchandise-image' is visible
+
+2022-07-30 23:54:22 - [MESSAGE][PASSED] - Object 'Object Repository/Withprize/Page_-/img_1_merchandise-image' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Rec-simple payment" time="9.386" classname="Test Cases/Rec-simple payment" status="PASSED">
+         <system-out><![CDATA[2022-07-30 23:54:22 - [TEST_CASE][PASSED] - Test Cases/Rec-simple payment: Test Cases/Rec-simple payment
+
+2022-07-30 23:54:22 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-07-30 23:54:22 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-07-30 23:54:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-07-30 23:54:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-07-30 23:54:23 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-07-30 23:54:23 - [TEST_STEP][PASSED] - navigateToUrl("http://kandinsky-wordpress-20.tw1.ru/campaign/obychnyj-platezh/"): Navigate to 'http://kandinsky-wordpress-20.tw1.ru/campaign/obychnyj-platezh/' successfully
+
+2022-07-30 23:54:28 - [MESSAGE][PASSED] - Navigate to 'http://kandinsky-wordpress-20.tw1.ru/campaign/obychnyj-platezh/' successfully
+
+2022-07-30 23:54:28 - [TEST_STEP][PASSED] - click(findTestObject("recur/Page_-/a_")): Object: 'Object Repository/recur/Page_-/a_' is clicked on
+
+2022-07-30 23:54:28 - [MESSAGE][PASSED] - Object: 'Object Repository/recur/Page_-/a_' is clicked on
+
+2022-07-30 23:54:28 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Simple Pay,en/Page_-/input_email_leyka_donor_email"), "info@kingsite.pro"): Text 'info@kingsite.pro' is set on object 'Object Repository/Simple Pay,en/Page_-/input_email_leyka_donor_email'
+
+2022-07-30 23:54:29 - [MESSAGE][PASSED] - Text 'info@kingsite.pro' is set on object 'Object Repository/Simple Pay,en/Page_-/input_email_leyka_donor_email'
+
+2022-07-30 23:54:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Simple Pay,en/Page_-/span_")): Object: 'Object Repository/Simple Pay,en/Page_-/span_' is clicked on
+
+2022-07-30 23:54:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Simple Pay,en/Page_-/span_' is clicked on
+
+2022-07-30 23:54:29 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Simple Pay,en/Page_-/input__leyka_donor_name"), "test"): Text 'test' is set on object 'Object Repository/Simple Pay,en/Page_-/input__leyka_donor_name'
+
+2022-07-30 23:54:30 - [MESSAGE][PASSED] - Text 'test' is set on object 'Object Repository/Simple Pay,en/Page_-/input__leyka_donor_name'
+
+2022-07-30 23:54:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Simple Pay,en/Page_-/label_")): Object: 'Object Repository/Simple Pay,en/Page_-/label_' is clicked on
+
+2022-07-30 23:54:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Simple Pay,en/Page_-/label_' is clicked on
+
+2022-07-30 23:54:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Simple Pay,en/Page_-/label__1")): Object: 'Object Repository/Simple Pay,en/Page_-/label__1' is clicked on
+
+2022-07-30 23:54:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Simple Pay,en/Page_-/label__1' is clicked on
+
+2022-07-30 23:54:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Simple Pay,en/Page_-/input__leyka-default-submit")): Object: 'Object Repository/Simple Pay,en/Page_-/input__leyka-default-submit' is clicked on
+
+2022-07-30 23:54:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Simple Pay,en/Page_-/input__leyka-default-submit' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Rec-Mysumm" time="10.314" classname="Test Cases/Rec-Mysumm" status="PASSED">
+         <system-out><![CDATA[2022-07-30 23:54:31 - [TEST_CASE][PASSED] - Test Cases/Rec-Mysumm: Test Cases/Rec-Mysumm
+
+2022-07-30 23:54:31 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-07-30 23:54:31 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-07-30 23:54:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-07-30 23:54:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-07-30 23:54:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-07-30 23:54:33 - [TEST_STEP][PASSED] - navigateToUrl("http://kandinsky-wordpress-20.tw1.ru/campaign/obychnyj-platezh/"): Navigate to 'http://kandinsky-wordpress-20.tw1.ru/campaign/obychnyj-platezh/' successfully
+
+2022-07-30 23:54:36 - [MESSAGE][PASSED] - Navigate to 'http://kandinsky-wordpress-20.tw1.ru/campaign/obychnyj-platezh/' successfully
+
+2022-07-30 23:54:36 - [TEST_STEP][PASSED] - click(findTestObject("recur/Page_-/a_")): Object: 'Object Repository/recur/Page_-/a_' is clicked on
+
+2022-07-30 23:54:37 - [MESSAGE][PASSED] - Object: 'Object Repository/recur/Page_-/a_' is clicked on
+
+2022-07-30 23:54:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Mysumm/Page_-/div_donation currency                      _32c14e")): Object: 'Object Repository/Mysumm/Page_-/div_donation currency                      _32c14e' is clicked on
+
+2022-07-30 23:54:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Mysumm/Page_-/div_donation currency                      _32c14e' is clicked on
+
+2022-07-30 23:54:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Mysumm/Page_-/input__donate_amount_flex"), "1101"): Text '1101' is set on object 'Object Repository/Mysumm/Page_-/input__donate_amount_flex'
+
+2022-07-30 23:54:38 - [MESSAGE][PASSED] - Text '1101' is set on object 'Object Repository/Mysumm/Page_-/input__donate_amount_flex'
+
+2022-07-30 23:54:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Mysumm/Page_-/span_email")): Object: 'Object Repository/Mysumm/Page_-/span_email' is clicked on
+
+2022-07-30 23:54:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Mysumm/Page_-/span_email' is clicked on
+
+2022-07-30 23:54:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Mysumm/Page_-/input_email_leyka_donor_email"), "info@kimgsite.pro"): Text 'info@kimgsite.pro' is set on object 'Object Repository/Mysumm/Page_-/input_email_leyka_donor_email'
+
+2022-07-30 23:54:39 - [MESSAGE][PASSED] - Text 'info@kimgsite.pro' is set on object 'Object Repository/Mysumm/Page_-/input_email_leyka_donor_email'
+
+2022-07-30 23:54:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Mysumm/Page_-/div_")): Object: 'Object Repository/Mysumm/Page_-/div_' is clicked on
+
+2022-07-30 23:54:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Mysumm/Page_-/div_' is clicked on
+
+2022-07-30 23:54:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Mysumm/Page_-/input__leyka_donor_name"), "test"): Text 'test' is set on object 'Object Repository/Mysumm/Page_-/input__leyka_donor_name'
+
+2022-07-30 23:54:40 - [MESSAGE][PASSED] - Text 'test' is set on object 'Object Repository/Mysumm/Page_-/input__leyka_donor_name'
+
+2022-07-30 23:54:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Mysumm/Page_-/label_")): Object: 'Object Repository/Mysumm/Page_-/label_' is clicked on
+
+2022-07-30 23:54:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Mysumm/Page_-/label_' is clicked on
+
+2022-07-30 23:54:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Mysumm/Page_-/label__1")): Object: 'Object Repository/Mysumm/Page_-/label__1' is clicked on
+
+2022-07-30 23:54:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Mysumm/Page_-/label__1' is clicked on
+
+2022-07-30 23:54:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Mysumm/Page_-/input__leyka-default-submit")): Object: 'Object Repository/Mysumm/Page_-/input__leyka-default-submit' is clicked on
+
+2022-07-30 23:54:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Mysumm/Page_-/input__leyka-default-submit' is clicked on
+
+2022-07-30 23:54:41 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-07-30 23:54:41 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Rec-customfield" time="11.509" classname="Test Cases/Rec-customfield" status="PASSED">
+         <system-out><![CDATA[2022-07-30 23:54:41 - [TEST_CASE][PASSED] - Test Cases/Rec-customfield: Test Cases/Rec-customfield
+
+2022-07-30 23:54:42 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-07-30 23:54:42 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-07-30 23:54:42 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-07-30 23:54:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-07-30 23:54:43 - [TEST_STEP][PASSED] - navigateToUrl("http://kandinsky-wordpress-20.tw1.ru/campaign/platezh-s-doppolyami/"): Navigate to 'http://kandinsky-wordpress-20.tw1.ru/campaign/platezh-s-doppolyami/' successfully
+
+2022-07-30 23:54:46 - [MESSAGE][PASSED] - Navigate to 'http://kandinsky-wordpress-20.tw1.ru/campaign/platezh-s-doppolyami/' successfully
+
+2022-07-30 23:54:46 - [TEST_STEP][PASSED] - click(findTestObject("recur/Page_-/a_")): Object: 'Object Repository/recur/Page_-/a_' is clicked on
+
+2022-07-30 23:54:46 - [MESSAGE][PASSED] - Object: 'Object Repository/recur/Page_-/a_' is clicked on
+
+2022-07-30 23:54:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/mycustom/Page_-/span_email")): Object: 'Object Repository/mycustom/Page_-/span_email' is clicked on
+
+2022-07-30 23:54:46 - [MESSAGE][PASSED] - Object: 'Object Repository/mycustom/Page_-/span_email' is clicked on
+
+2022-07-30 23:54:46 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/mycustom/Page_-/input_email_leyka_donor_email"), "info@kingsite.pro"): Text 'info@kingsite.pro' is set on object 'Object Repository/mycustom/Page_-/input_email_leyka_donor_email'
+
+2022-07-30 23:54:47 - [MESSAGE][PASSED] - Text 'info@kingsite.pro' is set on object 'Object Repository/mycustom/Page_-/input_email_leyka_donor_email'
+
+2022-07-30 23:54:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/mycustom/Page_-/span_")): Object: 'Object Repository/mycustom/Page_-/span_' is clicked on
+
+2022-07-30 23:54:47 - [MESSAGE][PASSED] - Object: 'Object Repository/mycustom/Page_-/span_' is clicked on
+
+2022-07-30 23:54:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/mycustom/Page_-/input__leyka_donor_name"), "test"): Text 'test' is set on object 'Object Repository/mycustom/Page_-/input__leyka_donor_name'
+
+2022-07-30 23:54:48 - [MESSAGE][PASSED] - Text 'test' is set on object 'Object Repository/mycustom/Page_-/input__leyka_donor_name'
+
+2022-07-30 23:54:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/mycustom/Page_-/span__1")): Object: 'Object Repository/mycustom/Page_-/span__1' is clicked on
+
+2022-07-30 23:54:48 - [MESSAGE][PASSED] - Object: 'Object Repository/mycustom/Page_-/span__1' is clicked on
+
+2022-07-30 23:54:48 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/mycustom/Page_-/input__leyka_eto-tekst_1"), "text"): Text 'text' is set on object 'Object Repository/mycustom/Page_-/input__leyka_eto-tekst_1'
+
+2022-07-30 23:54:49 - [MESSAGE][PASSED] - Text 'text' is set on object 'Object Repository/mycustom/Page_-/input__leyka_eto-tekst_1'
+
+2022-07-30 23:54:49 - [TEST_STEP][PASSED] - click(findTestObject("2New Folder2/Page_-/span_")): Object: 'Object Repository/2New Folder2/Page_-/span_' is clicked on
+
+2022-07-30 23:54:50 - [MESSAGE][PASSED] - Object: 'Object Repository/2New Folder2/Page_-/span_' is clicked on
+
+2022-07-30 23:54:50 - [TEST_STEP][PASSED] - setText(findTestObject("2New Folder2/Page_-/input__leyka_telefon"), "70001112233"): Text '70001112233' is set on object 'Object Repository/2New Folder2/Page_-/input__leyka_telefon'
+
+2022-07-30 23:54:50 - [MESSAGE][PASSED] - Text '70001112233' is set on object 'Object Repository/2New Folder2/Page_-/input__leyka_telefon'
+
+2022-07-30 23:54:50 - [TEST_STEP][PASSED] - click(findTestObject("1New Folder1/Page_-/div_")): Object: 'Object Repository/1New Folder1/Page_-/div_' is clicked on
+
+2022-07-30 23:54:51 - [MESSAGE][PASSED] - Object: 'Object Repository/1New Folder1/Page_-/div_' is clicked on
+
+2022-07-30 23:54:51 - [TEST_STEP][PASSED] - setText(findTestObject("1New Folder1/Page_-/input__leyka_data"), "11223333"): Text '11223333' is set on object 'Object Repository/1New Folder1/Page_-/input__leyka_data'
+
+2022-07-30 23:54:51 - [MESSAGE][PASSED] - Text '11223333' is set on object 'Object Repository/1New Folder1/Page_-/input__leyka_data'
+
+2022-07-30 23:54:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/mycustom/Page_-/label_")): Object: 'Object Repository/mycustom/Page_-/label_' is clicked on
+
+2022-07-30 23:54:52 - [MESSAGE][PASSED] - Object: 'Object Repository/mycustom/Page_-/label_' is clicked on
+
+2022-07-30 23:54:52 - [TEST_STEP][PASSED] - click(findTestObject("persdataaccept/Page_-/label_")): Object: 'Object Repository/persdataaccept/Page_-/label_' is clicked on
+
+2022-07-30 23:54:52 - [MESSAGE][PASSED] - Object: 'Object Repository/persdataaccept/Page_-/label_' is clicked on
+
+2022-07-30 23:54:52 - [TEST_STEP][PASSED] - click(findTestObject("Simple Pay,en/Page_-/input__leyka-default-submit")): Object: 'Object Repository/Simple Pay,en/Page_-/input__leyka-default-submit' is clicked on
+
+2022-07-30 23:54:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Simple Pay,en/Page_-/input__leyka-default-submit' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Rec-useotherpayment" time="7.054" classname="Test Cases/Rec-useotherpayment" status="PASSED">
+         <system-out><![CDATA[2022-07-30 23:54:53 - [TEST_CASE][PASSED] - Test Cases/Rec-useotherpayment: Test Cases/Rec-useotherpayment
+
+2022-07-30 23:54:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-07-30 23:54:53 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-07-30 23:54:53 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-07-30 23:54:53 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-07-30 23:54:55 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-07-30 23:54:55 - [TEST_STEP][PASSED] - navigateToUrl("http://kandinsky-wordpress-20.tw1.ru/campaign/obychnyj-platezh/"): Navigate to 'http://kandinsky-wordpress-20.tw1.ru/campaign/obychnyj-platezh/' successfully
+
+2022-07-30 23:54:59 - [MESSAGE][PASSED] - Navigate to 'http://kandinsky-wordpress-20.tw1.ru/campaign/obychnyj-platezh/' successfully
+
+2022-07-30 23:54:59 - [TEST_STEP][PASSED] - click(findTestObject("recur/Page_-/a_")): Object: 'Object Repository/recur/Page_-/a_' is clicked on
+
+2022-07-30 23:54:59 - [MESSAGE][PASSED] - Object: 'Object Repository/recur/Page_-/a_' is clicked on
+
+2022-07-30 23:54:59 - [TEST_STEP][PASSED] - click(findTestObject("AnotherRecurPay/Page_-/label__payment-opt__button")): Object: 'Object Repository/AnotherRecurPay/Page_-/label__payment-opt__button' is clicked on
+
+2022-07-30 23:54:59 - [MESSAGE][PASSED] - Object: 'Object Repository/AnotherRecurPay/Page_-/label__payment-opt__button' is clicked on
+
+2022-07-30 23:54:59 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/forchangepayment/Page_-/input_email_leyka_donor_email"), "that's all"): Text 'that's all' is set on object 'Object Repository/forchangepayment/Page_-/input_email_leyka_donor_email'
+
+2022-07-30 23:55:00 - [MESSAGE][PASSED] - Text 'that's all' is set on object 'Object Repository/forchangepayment/Page_-/input_email_leyka_donor_email']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-07-30 23:54:07 - [TEST_SUITE][PASSED] - Rec-Test Suite: Test Cases/Rec-useotherpayment]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

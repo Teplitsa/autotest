@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label__payment-opt__button</name>
+   <tag></tag>
+   <elementGuidId>08030491-2554-4353-a0f0-7327fcb99fd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/main/article/div/main/div[1]/div/div[1]/form/div[3]/div[4]/div[2]/div/div[3]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>9cff9b28-bdfd-434a-813d-b11bca2b883f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>payment-opt__button</value>
+      <webElementGuid>cfce87aa-35ae-4db0-9714-22355d44727a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leyka-pf-112-star-form&quot;)/div[@class=&quot;currency-tab currency-rub&quot;]/div[@class=&quot;section section--cards&quot;]/div[@class=&quot;section__fields payments-grid&quot;]/div[@class=&quot;star-swiper no-swipe only-one-item show-right-arrow&quot;]/div[@class=&quot;full-list&quot;]/div[@class=&quot;payment-opt swiper-item&quot;]/div[@class=&quot;swiper-item-inner&quot;]/label[@class=&quot;payment-opt__button&quot;]</value>
+      <webElementGuid>8992c05f-3282-4554-aa4e-588ee5ef41da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='leyka-pf-112-star-form']/div[3]/div[4]/div[2]/div/div[3]/div[3]/div/label</value>
+      <webElementGuid>97f0f185-f8e5-4671-a4c1-d55f4664263e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Банковская платёжная квитанция'])[1]/following::label[1]</value>
+      <webElementGuid>51dc3027-064c-4a3d-837f-6f51afc8cc91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Банковская карта'])[1]/following::label[2]</value>
+      <webElementGuid>72a7ba88-ea9b-4eb0-9d07-12f144c84153</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='misplay'])[1]/preceding::label[1]</value>
+      <webElementGuid>2e54ad72-877f-4caf-8371-038bd6253619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ваши данные'])[1]/preceding::label[1]</value>
+      <webElementGuid>6decae48-41a4-474b-874f-dca912f82bb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/label</value>
+      <webElementGuid>bc4a91ae-d5f4-479f-b07d-443527ec2e5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

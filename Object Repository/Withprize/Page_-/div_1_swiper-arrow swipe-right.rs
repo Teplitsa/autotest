@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1_swiper-arrow swipe-right</name>
+   <tag></tag>
+   <elementGuidId>fe6f6793-d842-4346-affe-9c3479996787</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.swiper-arrow.swipe-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='leyka-pf-127-star-form']/div[3]/div[3]/div[2]/div/div/div/a[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>85c6f201-260c-4585-9052-f59db66d2fa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swiper-arrow swipe-right</value>
+      <webElementGuid>fc6c196c-24f9-40e4-96bb-63fd0479befe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leyka-pf-127-star-form&quot;)/div[@class=&quot;currency-tab currency-rub&quot;]/div[@class=&quot;section section--merchandise&quot;]/div[@class=&quot;section__fields merchandise-grid&quot;]/div[@class=&quot;lSSlideOuter&quot;]/div[@class=&quot;lSSlideWrapper usingCss&quot;]/div[@class=&quot;lSAction&quot;]/a[@class=&quot;lSNext&quot;]/div[@class=&quot;swiper-arrow swipe-right&quot;]</value>
+      <webElementGuid>11b11d0c-2415-4b03-909c-21a6c9fe49f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='leyka-pf-127-star-form']/div[3]/div[3]/div[2]/div/div/div/a[2]/div</value>
+      <webElementGuid>e7d54ffd-f258-4782-bee0-2ee7c4831028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div</value>
+      <webElementGuid>3ce01135-6bae-4e4a-b01b-1ea54a5cb661</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
