@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="28.044" tests="1" failures="0" errors="0">
+   <testsuite name="New Test Suite" tests="1" failures="0" errors="0" time="28.044" skipped="0" timestamp="2022-08-10 17:28:34" hostname="johnyk - localhost" id="Test Suites/New Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/johnyk/Katalon Studio/Seeallelements/Reports/20220810_172825/New Test Suite/20220810_172825"/>
+         <property name="logFiles" value="/Users/johnyk/Katalon Studio/Seeallelements/Reports/20220810_172825/New Test Suite/20220810_172825/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="johnyk - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.4.0.208"/>
+         <property name="browser" value="Chrome 104.0.5112.79"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="e3d9fa807524ae55c595d8cae651f9f2"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/checktitles" time="27.63" classname="Test Cases/checktitles" status="PASSED">
+         <system-out><![CDATA[2022-08-10 17:28:34 - [TEST_CASE][PASSED] - Test Cases/checktitles: Test Cases/checktitles
+
+2022-08-10 17:28:35 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-08-10 17:28:35 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-08-10 17:28:35 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-08-10 17:28:41 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-08-10 17:28:41 - [TEST_STEP][PASSED] - navigateToUrl("http://kandinsky-wordpress-20.tw1.ru/wp-login.php?redirect_to=http%3A%2F%2Fkandinsky-wordpress-20.tw1.ru%2Fwp-admin%2F&reauth=1"): Navigate to 'http://kandinsky-wordpress-20.tw1.ru/wp-login.php?redirect_to=http%3A%2F%2Fkandinsky-wordpress-20.tw1.ru%2Fwp-admin%2F&reauth=1' successfully
+
+2022-08-10 17:28:43 - [MESSAGE][PASSED] - Navigate to 'http://kandinsky-wordpress-20.tw1.ru/wp-login.php?redirect_to=http%3A%2F%2Fkandinsky-wordpress-20.tw1.ru%2Fwp-admin%2F&reauth=1' successfully
+
+2022-08-10 17:28:43 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Authen/Page_WordPress/input_email_log"), "admin"): Text 'admin' is set on object 'Object Repository/Authen/Page_WordPress/input_email_log'
+
+2022-08-10 17:28:44 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Authen/Page_WordPress/input_email_log'
+
+2022-08-10 17:28:44 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Authen/Page_WordPress/input__pwd"), "syB9O6Ob7jNhUPvsoTfTNw=="): Text ****** has been set on object 'Object Repository/Authen/Page_WordPress/input__pwd'
+
+2022-08-10 17:28:45 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Authen/Page_WordPress/input__pwd'
+
+2022-08-10 17:28:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Authen/Page_WordPress/input__rememberme")): Object: 'Object Repository/Authen/Page_WordPress/input__rememberme' is clicked on
+
+2022-08-10 17:28:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Authen/Page_WordPress/input__rememberme' is clicked on
+
+2022-08-10 17:28:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Authen/Page_WordPress/input__wp-submit")): Object: 'Object Repository/Authen/Page_WordPress/input__wp-submit' is clicked on
+
+2022-08-10 17:28:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Authen/Page_WordPress/input__wp-submit' is clicked on
+
+2022-08-10 17:28:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/titles/Page_WordPress/a_")): Object: 'Object Repository/titles/Page_WordPress/a_' is clicked on
+
+2022-08-10 17:28:52 - [MESSAGE][PASSED] - Object: 'Object Repository/titles/Page_WordPress/a_' is clicked on
+
+2022-08-10 17:28:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/titles/Page_WordPress/a__1")): Object: 'Object Repository/titles/Page_WordPress/a__1' is clicked on
+
+2022-08-10 17:28:53 - [MESSAGE][PASSED] - Object: 'Object Repository/titles/Page_WordPress/a__1' is clicked on
+
+2022-08-10 17:28:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/titles/Page_WordPress/a__1_2")): Object: 'Object Repository/titles/Page_WordPress/a__1_2' is clicked on
+
+2022-08-10 17:28:55 - [MESSAGE][PASSED] - Object: 'Object Repository/titles/Page_WordPress/a__1_2' is clicked on
+
+2022-08-10 17:28:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/titles/Page_WordPress/a__1_2_3")): Object: 'Object Repository/titles/Page_WordPress/a__1_2_3' is clicked on
+
+2022-08-10 17:28:57 - [MESSAGE][PASSED] - Object: 'Object Repository/titles/Page_WordPress/a__1_2_3' is clicked on
+
+2022-08-10 17:28:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/titles/Page_WordPress/a__1_2_3_4")): Object: 'Object Repository/titles/Page_WordPress/a__1_2_3_4' is clicked on
+
+2022-08-10 17:29:00 - [MESSAGE][PASSED] - Object: 'Object Repository/titles/Page_WordPress/a__1_2_3_4' is clicked on
+
+2022-08-10 17:29:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/titles/Page_WordPress/a__1_2_3_4_5")): Object: 'Object Repository/titles/Page_WordPress/a__1_2_3_4_5' is clicked on
+
+2022-08-10 17:29:02 - [MESSAGE][PASSED] - Object: 'Object Repository/titles/Page_WordPress/a__1_2_3_4_5' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-08-10 17:28:34 - [TEST_SUITE][PASSED] - New Test Suite: Test Cases/checktitles]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
