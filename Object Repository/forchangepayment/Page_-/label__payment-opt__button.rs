@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label__payment-opt__button</name>
+   <tag></tag>
+   <elementGuidId>e63c8820-98a2-4e9f-b6ee-770a35ac35a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.payment-opt.swiper-item.selected > div.swiper-item-inner > label.payment-opt__button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='leyka-pf-112-star-form']/div[3]/div[3]/div[2]/div/div[3]/div[2]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c6dece2a-fb88-42a6-a06a-5e269c7c9b4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>payment-opt__button</value>
+      <webElementGuid>5f32a9f9-1dd8-4b82-a43b-d6d8a6c2d1a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leyka-pf-112-star-form&quot;)/div[@class=&quot;currency-tab currency-rub&quot;]/div[@class=&quot;section section--cards&quot;]/div[@class=&quot;section__fields payments-grid&quot;]/div[@class=&quot;star-swiper no-swipe only-one-item show-left-arrow&quot;]/div[@class=&quot;full-list&quot;]/div[@class=&quot;payment-opt swiper-item selected&quot;]/div[@class=&quot;swiper-item-inner&quot;]/label[@class=&quot;payment-opt__button&quot;]</value>
+      <webElementGuid>cb4d5b57-b65c-4fa5-8cfa-6dcb958ed091</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='leyka-pf-112-star-form']/div[3]/div[3]/div[2]/div/div[3]/div[2]/div/label</value>
+      <webElementGuid>1e33035e-2e97-46c1-ba9d-2f7ffe835ce4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Банковская карта'])[1]/following::label[1]</value>
+      <webElementGuid>b559e08b-03b5-4ac3-9714-a63f86d58499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Способ оплаты'])[1]/following::label[2]</value>
+      <webElementGuid>09645ea5-16b3-46ed-bc2f-4a94c5394f29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Банковская платёжная квитанция'])[1]/preceding::label[1]</value>
+      <webElementGuid>337be519-1696-46db-8472-d3cb3e9414e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ваши данные'])[1]/preceding::label[1]</value>
+      <webElementGuid>021e0f84-02c6-46fb-92d3-0dbba508a661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label</value>
+      <webElementGuid>a0c94f9b-3925-4f0e-9db1-777536e759c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,33 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 103.0.5060.134,,,2022-07-28 23:52:57,2022-07-28 23:55:35,"2m - 37,679s",FAILED
+,,,,,,,
+Test Cases/simple payment,Chrome 103.0.5060.134,,,2022-07-28 23:52:58,2022-07-28 23:53:40,"42,133s",FAILED
+"openBrowser("""")",Chrome 103.0.5060.134,,,2022-07-28 23:52:58,2022-07-28 23:53:04,"6,320s",PASSED
+"navigateToUrl(""http://kandinsky-wordpress-20.tw1.ru/campaign/obychnyj-platezh/"")",Chrome 103.0.5060.134,,,2022-07-28 23:53:04,2022-07-28 23:53:07,"2,654s",PASSED
+"setText(findTestObject(""Object Repository/Simple Pay,en/Page_-/input_email_leyka_donor_email""), ""info@kingsite.pro"")",Chrome 103.0.5060.134,,,2022-07-28 23:53:07,2022-07-28 23:53:08,"1,136s",PASSED
+"click(findTestObject(""Object Repository/Simple Pay,en/Page_-/span_""))",Chrome 103.0.5060.134,,,2022-07-28 23:53:08,2022-07-28 23:53:40,"31,582s",FAILED
+,,,,,,,
+Test Cases/Mysumm,Chrome 103.0.5060.134,,,2022-07-28 23:53:40,2022-07-28 23:54:17,"37,433s",FAILED
+"openBrowser("""")",Chrome 103.0.5060.134,,,2022-07-28 23:53:40,2022-07-28 23:53:42,"1,794s",PASSED
+"navigateToUrl(""http://kandinsky-wordpress-20.tw1.ru/campaign/obychnyj-platezh/"")",Chrome 103.0.5060.134,,,2022-07-28 23:53:42,2022-07-28 23:53:44,"2,413s",PASSED
+"click(findTestObject(""Object Repository/Mysumm/Page_-/div_donation currency                      _32c14e""))",Chrome 103.0.5060.134,,,2022-07-28 23:53:44,2022-07-28 23:53:45,"0,439s",PASSED
+"setText(findTestObject(""Object Repository/Mysumm/Page_-/input__donate_amount_flex""), ""1101"")",Chrome 103.0.5060.134,,,2022-07-28 23:53:45,2022-07-28 23:53:46,"0,770s",PASSED
+"click(findTestObject(""Object Repository/Mysumm/Page_-/span_email""))",Chrome 103.0.5060.134,,,2022-07-28 23:53:46,2022-07-28 23:54:17,"31,639s",FAILED
+,,,,,,,
+Test Cases/customfield,Chrome 103.0.5060.134,,,2022-07-28 23:54:17,2022-07-28 23:54:53,"35,679s",FAILED
+"openBrowser("""")",Chrome 103.0.5060.134,,,2022-07-28 23:54:18,2022-07-28 23:54:19,"1,726s",PASSED
+"navigateToUrl(""http://kandinsky-wordpress-20.tw1.ru/campaign/platezh-s-doppolyami/"")",Chrome 103.0.5060.134,,,2022-07-28 23:54:19,2022-07-28 23:54:22,"2,360s",PASSED
+"click(findTestObject(""Object Repository/mycustom/Page_-/span_email""))",Chrome 103.0.5060.134,,,2022-07-28 23:54:22,2022-07-28 23:54:53,"31,340s",FAILED
+,,,,,,,
+Test Cases/useotherpayment,Chrome 103.0.5060.134,,,2022-07-28 23:54:53,2022-07-28 23:55:29,"36,107s",FAILED
+"openBrowser("""")",Chrome 103.0.5060.134,,,2022-07-28 23:54:53,2022-07-28 23:54:55,"1,698s",PASSED
+"navigateToUrl(""http://kandinsky-wordpress-20.tw1.ru/campaign/obychnyj-platezh/"")",Chrome 103.0.5060.134,,,2022-07-28 23:54:55,2022-07-28 23:54:58,"2,606s",PASSED
+"click(findTestObject(""Object Repository/forchangepayment/Page_-/span__payment-opt__icon""))",Chrome 103.0.5060.134,,,2022-07-28 23:54:58,2022-07-28 23:55:29,"31,555s",FAILED
+,,,,,,,
+Test Cases/withprize,Chrome 103.0.5060.134,,,2022-07-28 23:55:29,2022-07-28 23:55:35,"5,910s",PASSED
+"openBrowser("""")",Chrome 103.0.5060.134,,,2022-07-28 23:55:29,2022-07-28 23:55:31,"1,633s",PASSED
+"navigateToUrl(""http://kandinsky-wordpress-20.tw1.ru/campaign/s-nagradoj/"")",Chrome 103.0.5060.134,,,2022-07-28 23:55:31,2022-07-28 23:55:33,"2,107s",PASSED
+"click(findTestObject(""Object Repository/Withprize/Page_-/div_1000""))",Chrome 103.0.5060.134,,,2022-07-28 23:55:33,2022-07-28 23:55:34,"0,413s",PASSED
+"click(findTestObject(""Object Repository/Withprize/Page_-/img_2_merchandise-image""))",Chrome 103.0.5060.134,,,2022-07-28 23:55:34,2022-07-28 23:55:34,"0,582s",PASSED
+"click(findTestObject(""Object Repository/Withprize/Page_-/div_1_swiper-arrow swipe-right""))",Chrome 103.0.5060.134,,,2022-07-28 23:55:34,2022-07-28 23:55:35,"0,434s",PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Withprize/Page_-/img_1_merchandise-image""))",Chrome 103.0.5060.134,,,2022-07-28 23:55:35,2022-07-28 23:55:35,"0,429s",PASSED
