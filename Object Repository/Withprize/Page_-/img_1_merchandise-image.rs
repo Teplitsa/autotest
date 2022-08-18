@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1_merchandise-image</name>
+   <tag></tag>
+   <elementGuidId>97b17bf0-d654-4a94-89f7-25c13624682a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.merchandise-item.active > img.merchandise-image</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='leyka-pf-127-star-form']/div[3]/div[3]/div[2]/div/div/ul/li[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2ddfe7cc-3f0b-40e2-a195-4b3bcfd2cd10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>merchandise-image</value>
+      <webElementGuid>ffa94c9b-b237-4ae1-b895-ea98096e5092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://kandinsky-wordpress-20.tw1.ru/wp-content/uploads/2022/07/partner-1.png</value>
+      <webElementGuid>1d042b26-05a1-4d51-8e5d-1c5d094161ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Подарок 1</value>
+      <webElementGuid>d2f339d6-7a6d-42a8-9df3-ea7ebb8fff52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leyka-pf-127-star-form&quot;)/div[@class=&quot;currency-tab currency-rub&quot;]/div[@class=&quot;section section--merchandise&quot;]/div[@class=&quot;section__fields merchandise-grid&quot;]/div[@class=&quot;lSSlideOuter&quot;]/div[@class=&quot;lSSlideWrapper usingCss&quot;]/ul[@class=&quot;merchandise-swiper lightSlider lSSlide lsGrabbing&quot;]/li[@class=&quot;merchandise-item active&quot;]/img[@class=&quot;merchandise-image&quot;]</value>
+      <webElementGuid>111520c4-0e2f-47b6-a64d-86cb8e081c46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='leyka-pf-127-star-form']/div[3]/div[3]/div[2]/div/div/ul/li[2]/img</value>
+      <webElementGuid>a3f8b32a-e047-4c1a-aa77-2e03e86b119e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Подарок 1']</value>
+      <webElementGuid>739b2cce-5013-4b10-8cd4-77b2b51a7e9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/img</value>
+      <webElementGuid>d405df26-027b-4cb7-b301-530d79d131e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://kandinsky-wordpress-20.tw1.ru/wp-content/uploads/2022/07/partner-1.png' and @alt = 'Подарок 1']</value>
+      <webElementGuid>af87012e-0a50-4cb0-be7d-4d9d0e534ced</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

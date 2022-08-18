@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__payment-opt__icon</name>
+   <tag></tag>
+   <elementGuidId>68aed29d-1d9a-45f6-92ae-0678e18ffd25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;leyka-pf-112-star-form&quot;)/div[@class=&quot;currency-tab currency-rub&quot;]/div[@class=&quot;section section--cards&quot;]/div[@class=&quot;section__fields payments-grid&quot;]/div[@class=&quot;star-swiper no-swipe only-one-item show-right-arrow&quot;]/div[@class=&quot;full-list&quot;]/div[@class=&quot;payment-opt swiper-item&quot;]/div[@class=&quot;swiper-item-inner&quot;]/label[@class=&quot;payment-opt__button&quot;]/span[@class=&quot;payment-opt__icon&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/main/article/div/main/div[1]/div/div[1]/form/div[3]/div[4]/div[2]/div/div[3]/div[2]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2def1bf3-f36c-4191-9f3e-2627f819bed5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>payment-opt__icon</value>
+      <webElementGuid>0e7c3f47-7b6a-4f40-834c-dd2fe939ad2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leyka-pf-112-star-form&quot;)/div[@class=&quot;currency-tab currency-rub&quot;]/div[@class=&quot;section section--cards&quot;]/div[@class=&quot;section__fields payments-grid&quot;]/div[@class=&quot;star-swiper no-swipe only-one-item show-right-arrow&quot;]/div[@class=&quot;full-list&quot;]/div[@class=&quot;payment-opt swiper-item&quot;]/div[@class=&quot;swiper-item-inner&quot;]/label[@class=&quot;payment-opt__button&quot;]/span[@class=&quot;payment-opt__icon&quot;]</value>
+      <webElementGuid>7a67bb56-0c7c-4aa2-815a-851306cf947a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='leyka-pf-112-star-form']/div[3]/div[3]/div[2]/div/div[3]/div[2]/div/label/span</value>
+      <webElementGuid>5c594c76-b6d0-4f7c-b3c4-b68a3d5fbb25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Банковская карта'])[1]/following::span[1]</value>
+      <webElementGuid>c5409f23-5056-4fa9-bf2d-44a228a60756</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Способ оплаты'])[1]/following::span[3]</value>
+      <webElementGuid>b721cd71-0602-4ea9-8ec5-d399b531a628</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Банковская платёжная квитанция'])[1]/preceding::span[1]</value>
+      <webElementGuid>60407896-61af-438f-b4e0-24aeb9ccac9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ваши данные'])[1]/preceding::span[2]</value>
+      <webElementGuid>c2b2d7df-c036-4abd-8a21-042c39ae01b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label/span</value>
+      <webElementGuid>22ec9d0e-c2ea-4c03-8376-2bfea3b90871</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

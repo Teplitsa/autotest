@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_</name>
+   <tag></tag>
+   <elementGuidId>ec29d59d-f3d3-4021-b8a4-471f3284f7e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.section__fields.periodicity > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/main/article/div/main/div[1]/div/div[1]/form/div[1]/div/a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>813ffe92-03e1-4634-872a-2376df965732</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>3c3c8812-7219-409e-9ed0-056e74d942f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-periodicity</name>
+      <type>Main</type>
+      <value>monthly</value>
+      <webElementGuid>f57c2a0f-1806-47d4-abb1-b0efe1a82998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>06eaf29b-a28e-4e9c-af48-585f397d1b1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>59129297-5504-4852-866d-060a96553784</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Рекуррентные платежи</value>
+      <webElementGuid>1184fcba-30cb-48cd-baef-4b29f2c3d140</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leyka-pf-112-star-form&quot;)/div[@class=&quot;section section--periodicity&quot;]/div[@class=&quot;section__fields periodicity&quot;]/a[1]</value>
+      <webElementGuid>067038a2-ff48-4ccb-9cd0-bd703f7b26b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='leyka-pf-112-star-form']/div/div/a</value>
+      <webElementGuid>1395d8eb-083f-4b2c-bbab-2cbdaf2c902a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Рекуррентные платежи')]</value>
+      <webElementGuid>0f6c08b1-aaac-42f7-9ee4-24571586b8c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Обычный платеж'])[1]/following::a[1]</value>
+      <webElementGuid>590a8417-5f97-4c70-a7ac-ed7d9330dd5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Им нужна помощь'])[1]/following::a[1]</value>
+      <webElementGuid>cfe87846-1146-49cf-a5d3-5b2e24ace435</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='donation currency'])[1]/preceding::a[2]</value>
+      <webElementGuid>ea300296-287f-4afe-95c7-2ce39b37ee53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Размер пожертвования'])[1]/preceding::a[4]</value>
+      <webElementGuid>374ce9df-e2e6-4e25-be4b-35e10273c253</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Рекуррентные платежи']/parent::*</value>
+      <webElementGuid>696aca29-76d7-4dfc-ab72-745a7a55a57b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#')]</value>
+      <webElementGuid>be1a2ab1-cea7-43cb-95eb-96fb489f5cb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/a</value>
+      <webElementGuid>311b6555-9b8c-4875-b47d-bff05f9d2136</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Рекуррентные платежи' or . = 'Рекуррентные платежи')]</value>
+      <webElementGuid>6c4dd34d-b925-4871-9a7c-23d425df8423</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
