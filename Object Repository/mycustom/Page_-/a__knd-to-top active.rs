@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__knd-to-top active</name>
+   <tag></tag>
+   <elementGuidId>a218b9a8-4888-4506-a439-1bcdedcbbb1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.knd-to-top.active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='top']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5cfc2cc3-5e62-43b4-b187-3cebbcce8f39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>353992ad-03fc-4470-a44b-f2ce3cfbfbab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>31f81419-6384-4ada-87a6-3d9760baa7a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>0084893e-8ddd-4dd2-8680-c9fc20bedb6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>knd-to-top active</value>
+      <webElementGuid>47ee512e-bbe2-4afa-83e5-0fc00ab7f1c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/a[@class=&quot;knd-to-top active&quot;]</value>
+      <webElementGuid>6fead5e0-99bd-4f9c-a555-5de41c9895dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='top']/a</value>
+      <webElementGuid>3ff11478-b591-4c9a-8e56-89d2e48f9867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Работает на Кандинском'])[1]/following::a[1]</value>
+      <webElementGuid>bb162271-aa0d-4bff-a5f5-4992a1b6e67e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Creative Commons-BY-SA 3.0'])[1]/following::a[2]</value>
+      <webElementGuid>71359af6-2a1a-465c-b34e-b2de96d0eee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'top', '&quot;', ')/a[@class=', '&quot;', 'knd-to-top active', '&quot;', ']')])[1]/preceding::a[1]</value>
+      <webElementGuid>4ac980b8-38b3-48b2-bf53-9f33097085d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[13]</value>
+      <webElementGuid>0b10cfbc-4ff1-497b-ade5-efa2820c22d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/a</value>
+      <webElementGuid>79f949fb-1c02-4eeb-bfc7-270a8b2d9fa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#']</value>
+      <webElementGuid>e32546b9-1e7a-4971-af78-0decdb6c1264</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
