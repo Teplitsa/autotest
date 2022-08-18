@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__1_2_3</name>
+   <tag></tag>
+   <elementGuidId>a47954ea-44e2-48b8-9725-d6d0fce183ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.donor__textfield-label.donor__date_field-label.leyka_data-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='leyka-pf-118-star-form']/div[3]/div[4]/div[2]/div[5]/div/label/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'дата ' or . = 'дата ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9600fc54-1bc9-443b-95a9-ced444edf526</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>donor__textfield-label donor__date_field-label leyka_data-label</value>
+      <webElementGuid>c5188355-3e77-45f9-a1dd-97a2aa7eeba2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>дата </value>
+      <webElementGuid>ebe846aa-326f-457d-be4f-6166392d9b0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leyka-pf-118-star-form&quot;)/div[@class=&quot;currency-tab currency-rub&quot;]/div[@class=&quot;section section--person&quot;]/div[@class=&quot;section__fields donor&quot;]/div[@class=&quot;donor-additional-field donor__textfield donor__textfield--date donor__textfield--data required&quot;]/div[@class=&quot;leyka-star-field-frame&quot;]/label[1]/span[@class=&quot;donor__textfield-label donor__date_field-label leyka_data-label&quot;]</value>
+      <webElementGuid>b0701021-1750-4c4e-bdb1-57d0affcd412</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='leyka-pf-118-star-form']/div[3]/div[4]/div[2]/div[5]/div/label/span</value>
+      <webElementGuid>e16dbaba-81c1-472c-96dd-945d6d75ee42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='телефон'])[1]/following::span[2]</value>
+      <webElementGuid>86ed47a3-921c-4750-9cc6-ae2520af1732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='это текст'])[1]/following::span[4]</value>
+      <webElementGuid>52c3f455-58ce-4748-bce7-d38a74c16363</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='дата']/parent::*</value>
+      <webElementGuid>f23dded0-4e4c-41b4-97ce-771b0f16f0d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/label/span</value>
+      <webElementGuid>4307f005-96f7-4b22-ab18-9550218e8371</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'дата ' or . = 'дата ')]</value>
+      <webElementGuid>72ebefb2-5415-4eee-90f3-1173bfc2d4a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>0c8d03d0-2853-4074-a5d0-7402efe6d985</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.donor__textfield-label.donor__phone_field-label.leyka_telefon-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/main/article/div/main/div[1]/div/div[1]/form/div[3]/div[5]/div[2]/div[4]/div[1]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>943f8f87-4c03-436c-9e31-2504d0fc6e74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>donor__textfield-label donor__phone_field-label leyka_telefon-label</value>
+      <webElementGuid>7ed98d3d-692b-447c-9117-4e535087db59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>телефон</value>
+      <webElementGuid>f43c07ca-983c-4d0b-a9ab-fcec27100f2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leyka-pf-118-star-form&quot;)/div[@class=&quot;currency-tab currency-rub&quot;]/div[@class=&quot;section section--person&quot;]/div[@class=&quot;section__fields donor&quot;]/div[@class=&quot;donor-additional-field donor__textfield donor__textfield--phone donor__textfield--telefon required&quot;]/div[@class=&quot;leyka-star-field-frame&quot;]/label[1]/span[@class=&quot;donor__textfield-label donor__phone_field-label leyka_telefon-label&quot;]</value>
+      <webElementGuid>4b5bea97-a851-4e24-aed8-0a3f05665e5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='leyka-pf-118-star-form']/div[3]/div[4]/div[2]/div[4]/div/label/span</value>
+      <webElementGuid>229c98c1-c9c8-40e3-86e2-1613f503b4d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='это текст'])[1]/following::span[2]</value>
+      <webElementGuid>1a684c5d-340a-4647-9923-9f3a3eff44aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Укажите ваше имя'])[1]/following::span[3]</value>
+      <webElementGuid>15a157f9-1217-49f4-b4b7-b67aa6e2661a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='дата'])[1]/preceding::span[2]</value>
+      <webElementGuid>48565cd7-901c-42f1-8f2b-bb65507a568f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='телефон']/parent::*</value>
+      <webElementGuid>f6501c0e-6d02-45b4-83bd-cb92a5b409b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/label/span</value>
+      <webElementGuid>d8e295f5-96c2-4f2c-b8a6-d1720d720925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'телефон' or . = 'телефон')]</value>
+      <webElementGuid>bb367183-d002-4964-a447-37f39871e6ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
