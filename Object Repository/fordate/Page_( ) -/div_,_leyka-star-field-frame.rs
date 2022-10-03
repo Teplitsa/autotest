@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_,_leyka-star-field-frame</name>
+   <tag></tag>
+   <elementGuidId>e702b2aa-28e2-4ec8-adbc-3bb329c82941</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.donor-field.donor-additional-field.donor__textfield.donor__textfield--date.donor__textfield--data.required > div.leyka-star-field-frame</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/main/article/div/main/div[1]/div/div[1]/form/div[3]/div[4]/div[2]/div[5]/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b8872066-d3ef-4885-aea4-546c39e15f84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>leyka-star-field-frame</value>
+      <webElementGuid>3c23ff39-11b9-4782-8bf8-5e3aff21f744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leyka-pf-148-need-help-form&quot;)/div[@class=&quot;currency-tab currency-rub&quot;]/div[@class=&quot;section section--person&quot;]/div[@class=&quot;section__fields donor equalize-elements-width&quot;]/div[@class=&quot;donor-field donor-additional-field donor__textfield donor__textfield--date donor__textfield--data required&quot;]/div[@class=&quot;leyka-star-field-frame&quot;]</value>
+      <webElementGuid>57a84911-de5d-44da-9762-726f3ec06f1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='leyka-pf-148-need-help-form']/div[3]/div[4]/div[2]/div[5]/div</value>
+      <webElementGuid>e829d64b-4118-4789-9a76-294430ff5986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Пожалуйста, укажите корректное значение'])[2]/following::div[2]</value>
+      <webElementGuid>68ca42f9-2411-4695-a325-292248577680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Пожалуйста, укажите корректное значение'])[1]/following::div[5]</value>
+      <webElementGuid>c5e88517-3c5d-4d47-8bab-22139c0ad52a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Пожалуйста, укажите корректное значение'])[3]/preceding::div[1]</value>
+      <webElementGuid>5088c196-4d28-4428-ba0b-3e371234cb11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[5]/div</value>
+      <webElementGuid>f6af6843-4ee1-4714-8a0f-9c77e8a71bed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

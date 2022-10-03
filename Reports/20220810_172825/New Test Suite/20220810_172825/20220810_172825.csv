@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 104.0.5112.79,,,2022-08-10 17:28:34,2022-08-10 17:29:02,"28,044s",PASSED
+,,,,,,,
+Test Cases/checktitles,Chrome 104.0.5112.79,,,2022-08-10 17:28:34,2022-08-10 17:29:02,"27,630s",PASSED
+"openBrowser("""")",Chrome 104.0.5112.79,,,2022-08-10 17:28:35,2022-08-10 17:28:41,"6,332s",PASSED
+"navigateToUrl(""http://kandinsky-wordpress-20.tw1.ru/wp-login.php?redirect_to=http%3A%2F%2Fkandinsky-wordpress-20.tw1.ru%2Fwp-admin%2F&reauth=1"")",Chrome 104.0.5112.79,,,2022-08-10 17:28:41,2022-08-10 17:28:43,"2,176s",PASSED
+"setText(findTestObject(""Object Repository/Authen/Page_WordPress/input_email_log""), ""admin"")",Chrome 104.0.5112.79,,,2022-08-10 17:28:43,2022-08-10 17:28:44,"1,056s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/Authen/Page_WordPress/input__pwd""), ""syB9O6Ob7jNhUPvsoTfTNw=="")",Chrome 104.0.5112.79,,,2022-08-10 17:28:44,2022-08-10 17:28:45,"0,490s",PASSED
+"click(findTestObject(""Object Repository/Authen/Page_WordPress/input__rememberme""))",Chrome 104.0.5112.79,,,2022-08-10 17:28:45,2022-08-10 17:28:45,"0,558s",PASSED
+"click(findTestObject(""Object Repository/Authen/Page_WordPress/input__wp-submit""))",Chrome 104.0.5112.79,,,2022-08-10 17:28:45,2022-08-10 17:28:49,"3,715s",PASSED
+"click(findTestObject(""Object Repository/titles/Page_WordPress/a_""))",Chrome 104.0.5112.79,,,2022-08-10 17:28:49,2022-08-10 17:28:52,"2,445s",PASSED
+"click(findTestObject(""Object Repository/titles/Page_WordPress/a__1""))",Chrome 104.0.5112.79,,,2022-08-10 17:28:52,2022-08-10 17:28:53,"1,562s",PASSED
+"click(findTestObject(""Object Repository/titles/Page_WordPress/a__1_2""))",Chrome 104.0.5112.79,,,2022-08-10 17:28:53,2022-08-10 17:28:55,"1,704s",PASSED
+"click(findTestObject(""Object Repository/titles/Page_WordPress/a__1_2_3""))",Chrome 104.0.5112.79,,,2022-08-10 17:28:55,2022-08-10 17:28:57,"2,186s",PASSED
+"click(findTestObject(""Object Repository/titles/Page_WordPress/a__1_2_3_4""))",Chrome 104.0.5112.79,,,2022-08-10 17:28:57,2022-08-10 17:29:00,"3,235s",PASSED
+"click(findTestObject(""Object Repository/titles/Page_WordPress/a__1_2_3_4_5""))",Chrome 104.0.5112.79,,,2022-08-10 17:29:00,2022-08-10 17:29:02,"1,698s",PASSED

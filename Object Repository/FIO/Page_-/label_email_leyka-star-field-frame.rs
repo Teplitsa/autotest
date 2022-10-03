@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_email_leyka-star-field-frame</name>
+   <tag></tag>
+   <elementGuidId>d1b26cc7-be9f-4449-bf16-7b3b91aa3ccb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.donor-field.donor__textfield.donor__textfield--name.required.invalid > label.leyka-star-field-frame</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/main/article/div/main/div[1]/div/div[1]/form/div[3]/div[4]/div[2]/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>652f0b2a-5d4e-4d86-af49-7cb1b20d88c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>leyka-star-field-frame</value>
+      <webElementGuid>4a70c99f-5bd4-42d6-a21c-de8361b64263</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leyka-pf-141-need-help-form&quot;)/div[@class=&quot;currency-tab currency-rub&quot;]/div[@class=&quot;section section--person&quot;]/div[@class=&quot;section__fields donor equalize-elements-width&quot;]/div[@class=&quot;donor-field donor__textfield donor__textfield--name required invalid&quot;]/label[@class=&quot;leyka-star-field-frame&quot;]</value>
+      <webElementGuid>f2d59fc0-dbb8-473b-9187-9c700fa0d114</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='leyka-pf-141-need-help-form']/div[3]/div[4]/div[2]/div[2]/label</value>
+      <webElementGuid>b9544bb8-63a9-4212-90f2-d1c2ffe3ba36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Укажите корректный адрес email'])[1]/following::label[1]</value>
+      <webElementGuid>441863c4-48ee-4779-a096-8864fa5690fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Личные данные'])[1]/following::label[2]</value>
+      <webElementGuid>7c31c7e0-41e5-4f50-a96b-6c0b521480aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Укажите ваше имя'])[1]/preceding::label[1]</value>
+      <webElementGuid>29992de0-3276-4b80-a610-1b075a24c644</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label</value>
+      <webElementGuid>2a903e05-27a6-4ef1-9e12-eade0182a1db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

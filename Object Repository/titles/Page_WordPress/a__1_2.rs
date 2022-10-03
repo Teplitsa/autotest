@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__1_2</name>
+   <tag></tag>
+   <elementGuidId>78d7a6c8-94e8-4307-b099-d8df202268ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='toplevel_page_leyka']/ul/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>26408d7c-8908-4db2-8c64-222949ef867a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>admin.php?page=leyka_recurring_subscriptions</value>
+      <webElementGuid>a5ca7c28-4369-425b-b3f2-91c8a4297193</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Рекуррентные подписки</value>
+      <webElementGuid>c585c5e0-d0a3-455d-bb41-fe2e89bd9bef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toplevel_page_leyka&quot;)/ul[@class=&quot;wp-submenu wp-submenu-wrap&quot;]/li[5]/a[1]</value>
+      <webElementGuid>23454ccc-2aab-47e6-ae91-56c13241af1b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='toplevel_page_leyka']/ul/li[5]/a</value>
+      <webElementGuid>5359649f-8764-4c09-84fd-27c6b21e3887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Рекуррентные подписки')]</value>
+      <webElementGuid>141244dc-a069-4134-9d80-57434686f6fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Пожертвования'])[1]/following::a[2]</value>
+      <webElementGuid>48fa2dcb-0183-45d6-87a9-01a7f242ebcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Кампании'])[1]/following::a[4]</value>
+      <webElementGuid>a279011a-cdec-4203-b231-3ec04db4e14d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Доноры'])[1]/preceding::a[1]</value>
+      <webElementGuid>2aeb979d-78a0-46d9-9a3d-cd0466b017f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Настройки'])[3]/preceding::a[2]</value>
+      <webElementGuid>20f9d816-03cf-412c-b015-7aad66c42fc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Рекуррентные подписки']/parent::*</value>
+      <webElementGuid>394f34d2-4adf-4088-8d96-ef5ba681a249</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'admin.php?page=leyka_recurring_subscriptions')]</value>
+      <webElementGuid>e0ca0215-0a1e-4eb0-809b-bcdd611eb5d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[19]/ul/li[5]/a</value>
+      <webElementGuid>d83604d6-5380-4e0d-acc6-6f4ebf6906dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'admin.php?page=leyka_recurring_subscriptions' and (text() = 'Рекуррентные подписки' or . = 'Рекуррентные подписки')]</value>
+      <webElementGuid>e108fe05-2750-41ce-a7d5-79e31f6bf02a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

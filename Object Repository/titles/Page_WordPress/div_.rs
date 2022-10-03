@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>6a3d628d-9e88-4bfd-91d7-cd65a5351868</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.wp-has-submenu.wp-not-current-submenu.menu-top.menu-icon-generic.toplevel_page_leyka > div.wp-menu-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='toplevel_page_leyka']/a/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>92bd2e12-8bbb-4f87-b93f-e365602ee803</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wp-menu-name</value>
+      <webElementGuid>bec677b8-c3e5-457b-ae06-66bc0b281faa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Лейка</value>
+      <webElementGuid>403a2c1a-f0ba-4690-a1b5-83e65f17cd60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toplevel_page_leyka&quot;)/a[@class=&quot;wp-has-submenu wp-not-current-submenu menu-top menu-icon-generic toplevel_page_leyka&quot;]/div[@class=&quot;wp-menu-name&quot;]</value>
+      <webElementGuid>e0b42ad3-732a-456f-8adc-c891f9a15f0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='toplevel_page_leyka']/a/div[3]</value>
+      <webElementGuid>baaf87d4-9ca9-4918-a0db-6c2da75732df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Перенаправления'])[1]/following::div[4]</value>
+      <webElementGuid>85e51ca6-0b35-4133-8ce2-f360351a1f71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Тренажёры'])[1]/following::div[4]</value>
+      <webElementGuid>e87e0fb8-ca1d-4428-83ea-6347602f8bed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Панель управления'])[1]/preceding::div[1]</value>
+      <webElementGuid>5cdfd382-9886-4702-ac4a-784874fe6bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Кампании'])[1]/preceding::div[1]</value>
+      <webElementGuid>6380889f-e7de-4f55-8605-ec2f1b5c7c1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Лейка']/parent::*</value>
+      <webElementGuid>71f984a5-e223-4f51-93ac-f7408afd1951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[19]/a/div[3]</value>
+      <webElementGuid>4cc97f8c-982c-4613-9e1e-c32d47b299c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Лейка' or . = 'Лейка')]</value>
+      <webElementGuid>1d764f87-cea9-4c08-9f9b-37094e74d556</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
